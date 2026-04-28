@@ -27,7 +27,7 @@ What sets this apart? Instead of just flagging issues, it:
 ![App Screenshot](./assets/app.png)
 
 Try the agent right now:
-[Analyze a PR on the Live App](https://divine-hill-4709.paulodgb2006.workers.dev)
+[Analyze a PR on the Live App](https://appsec-agent.paulodgb2006.workers.dev)
 
 (Note: The live demo works best with public GitHub PRs. For private repos, follow the [local installation below](#installation).)
 
